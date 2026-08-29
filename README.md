@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cristian David Arce 👋</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | Java · Spring Boot · Angular · Ionic</h3>
 
 <p align="center">
 Studying Web Application Development (DAW) at IES María Enríquez, Gandía, Spain 🇪🇸
@@ -35,11 +35,11 @@ Building full-stack systems end to end: backend, frontend, mobile and infrastruc
 
 **✈️ Arcefly** — Full-stack airline management system
 Spring Boot backend, Angular admin panel, Ionic mobile app, MySQL database. Deployed on Render + Railway + Netlify.
-🔗 [arcefly.netlify.app](https://arcefly.netlify.app)
+🔗 [Live demo](https://arcefly.netlify.app) · [Project page](https://crissdeev.netlify.app/proyecto-arcefly) · [backend](https://github.com/Arcefly/Arcefly-backend) · [frontend](https://github.com/Arcefly/Arcefly-fronted) · [mobile](https://github.com/Arcefly/Arcefly-mobile)
 
 **🍽️ LaComanda** — Restaurant management system
 Separate kitchen, waiter and admin roles to digitize the order flow in real time.
-🔗 [lacomanda-backend](https://github.com/Arcezx/lacomanda-backend) · [lacomanda-admin](https://github.com/Arcezx/lacomanda-admin)
+🔗 [Project page](https://crissdeev.netlify.app/proyecto-lacomanda) · [backend](https://github.com/Arcezx/lacomanda-backend) · [frontend](https://github.com/Arcezx/lacomanda-frontend) · [admin](https://github.com/Arcezx/lacomanda-admin) · [kitchen](https://github.com/Arcezx/lacomanda-cocina) · [waiter](https://github.com/Arcezx/lacomanda-camarero)
 
 **💼 Portfolio** — crissdeev.netlify.app
 Bilingual (ES/EN) personal site with section-by-section video demos of each project.
