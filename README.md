@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cristian David Arce 👋</h1>
-<h3 align="center">Full-Stack Developer | Java · Spring Boot · Angular · Ionic</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
 Studying Web Application Development (DAW) at IES María Enríquez, Gandía, Spain 🇪🇸
