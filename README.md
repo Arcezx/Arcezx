@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-Studying Web Application Development (DAW) at IES María Enríquez, Gandía, Spain 🇪🇸
+Studying Web Application Development (DAW) at IES María Enríquez, Gandía, Spain 🇪🇸 — after completing Multiplatform Application Development (DAM)
 <br>
 Building full-stack systems end to end: backend, frontend, mobile and infrastructure.
 </p>
