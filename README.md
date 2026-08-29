@@ -51,7 +51,7 @@ Bilingual (ES/EN) personal site with section-by-section video demos of each proj
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arcezx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arcezx&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Arcezx&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
